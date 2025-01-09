@@ -114,15 +114,17 @@
   }
   /* footer */
   #footer-section {
-    bottom: 0;left: 0;
+        bottom: 0;
+    left: 0;
     color: white;
     width: 100%;
-    margin:auto;
+    margin: auto;
     background-color: #fc8a05;
-    display: flex;
+    display: flex
+;
     align-items: center;
     justify-content: center;
-position: absolute;
+    position: fixed;
   }
   
   .footer-row {
