@@ -344,8 +344,8 @@
     padding: 0px;
   }
   .grid-item {
-    padding: 20px;
-    text-align: center;
+/*     padding: 20px;
+    text-align: center; */
     transition: 0.5s;
   }
   
